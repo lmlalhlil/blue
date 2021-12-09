@@ -19,7 +19,7 @@ int main() {
     name[3] = "taraneh";
     name[4] = "maryam";
     name[5] = "yasman";
-    name[6] = "darya";
+    name[6] = "roya";
 
     vector<int>age;
     age[0] = 8;
@@ -28,7 +28,7 @@ int main() {
     age[3] = 6;
     age[4] = 7;
     age[5] = 7;
-    age[6] = 8;
+    age[6] = 5;
 
     for (int i = 0; i < name.size(); i++)
     {
